@@ -1,6 +1,6 @@
 FROM debian:bookworm-slim
 
-LABEL author="Ym0t" maintainer="YmoT@tuta.com"
+LABEL author="LakshmiBhaskarPVL" maintainer="simba@navocloud.com"
 
 ARG PHP_VERSION="8.3"
 
